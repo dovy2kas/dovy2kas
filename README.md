@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Lilita+One'&color=%23FF79C6&background=%2344475A&size=50&center=true&vCenter=true&width=650&height=100&lines=Hello,+my+name+is+Dovydas+!)](https://git.io/typing-svg)
  
 </h2>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dovy2kas/dovy2kas" alt="dovy2kas">
+
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdovy2kas%2Fdovy2kas&label=Visitors&labelColor=%2344475a&countColor=%23ff79c6&labelStyle=upper" alt="Visitor count">
 
 # Tools and languages that I've used :
 <div>
