@@ -16,7 +16,7 @@
   </p>
   <p>
     <img src="https://img.shields.io/badge/Tailwindcss-white?style=for-the-badge&logo=Tailwindcss&logoColor=#08adcb"/> 
-    <img src="https://img.shields.io/badge/Ubuntu-white?&style=for-the-badge&logo=ubuntu"/> 
+    <img src="https://img.shields.io/badge/Fedora-white?&style=for-the-badge&logo=fedora"/> 
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
   </p>
   <p>
